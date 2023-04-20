@@ -1,12 +1,10 @@
 # 🤖 AIGC 中文指南 🤖
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
-[![Code License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/yzfly/awesome-chatgpt-zh/blob/main/LICENSE)
-[![slack badge](https://img.shields.io/badge/Telegrem-join-blueviolet?logo=telegrem&amp)](https://t.me/AwesomeChatGPT)
-
 [GitHub 持续更新，欢迎关注，欢迎 star ~](https://github.com/yzfly/awesome-chatgpt-zh)
 
-[为方便国内访问, GitLab 镜像同步更新~](https://gitlab.com/awesomeai/awesome-chatgpt-zh)
+#为方便国内访问, 也有飞书文档~
+### 飞书新手入门文档
+[https://51xiaoqu.feishu.cn/wiki/wikcnNqPayrKVQK0zT5s3fWGXMh](https://51xiaoqu.feishu.cn/wiki/wikcnNqPayrKVQK0zT5s3fWGXMh)
 
 AIGC 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我们收集了各种免费和付费的ChatGPT资源，以及如何更有效地使用中文与 ChatGPT 进行交流的方法。在这个仓库中，您将找到丰富的 ChatGPT工具、应用和示例。
 
@@ -988,23 +986,14 @@ ChatGPT的强大能力是显而易见的，但对于人工智能领域不太熟�
 
 建立知识星球也是对自己学习的敦促，也希望能与智慧的你们一起把握时代机遇，预见未来，遇见更好的自己！
 
-加入链接：https://t.zsxq.com/0cYzbXzeT
+加入链接：[https://t.zsxq.com/0cYzbXzeT](https://t.zsxq.com/0daIXiDEW)
 
-或者微信扫码
-<img src=imgs/zsxq.jpg width=40% />
-
-
-### 电报群
-
-欢迎加入电报交流群讨论 ChatGPT 相关资源及日常使用等相关话题：
-
-- 🚀[电报频道：ChatGPT 精选](https://t.me/AwesomeChatGPT)🚀
-- 🚀[电报交流群：ChatGPT 精选 Chat](https://t.me/+cBIhxVSwABg4Y2M5)🚀
-
+### 飞书新手入门文档
+[https://51xiaoqu.feishu.cn/wiki/wikcnNqPayrKVQK0zT5s3fWGXMh](https://51xiaoqu.feishu.cn/wiki/wikcnNqPayrKVQK0zT5s3fWGXMh)
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yzfly/awesome-chatgpt-zh&type=Date)](https://star-history.com/#yzfly/awesome-chatgpt-zh&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=jonnyquan/aigc_cn&type=Date)](https://star-history.com/#jonnyquan/aigc_cn&Date)
 
 
 ## 贡献指南
