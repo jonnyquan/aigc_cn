@@ -1,4 +1,4 @@
-# 🤖 AIGC 中文指南 🤖
+#  AIGC 中文指南 
 
 [GitHub 持续更新，欢迎关注，欢迎 star ~](https://github.com/yzfly/awesome-chatgpt-zh)
 
